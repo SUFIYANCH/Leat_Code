@@ -1,5 +1,5 @@
-import 'two_sum.dart';
+import 'palindrome.dart';
 
 void main() {
-  addSum();
+  palindrome();
 }
