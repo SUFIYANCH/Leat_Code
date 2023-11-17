@@ -1,5 +1,5 @@
-import 'even_to_letter.dart';
+import 'number_to_odd_even.dart';
 
 void main() {
-  evenToLetter();
+  numberToOddEven();
 }
